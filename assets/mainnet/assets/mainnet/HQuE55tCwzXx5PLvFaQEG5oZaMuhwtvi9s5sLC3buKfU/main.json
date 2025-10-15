@@ -1,0 +1,8 @@
+{
+  "name": "Youtubecoin",
+  "symbol": "TUBE",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/youtube-coin-lab/Youtube-coin-/git-checkout--b-add-youtubecoin/IMG_3416.png",
+  "tags": ["memecoin", "solana"],
+  "mintAddress": "HQuE55tCwzXx5PLvFaQEG5oZaMuhwtvi9s5sLC3buKfU"
+}
