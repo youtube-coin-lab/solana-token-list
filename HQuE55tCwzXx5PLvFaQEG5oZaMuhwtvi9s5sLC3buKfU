@@ -1,0 +1,9 @@
+{
+  "name": "Youtubecoin",
+  "symbol": "TUBE",
+  "description": "TubeCoin is a fun meme token for the Solana community.",
+  "image": "https://raw.githubusercontent.com/youtube-coin-lab/token-list/add-tubecoin-logo/assets/mainnet/HQ/HQuE55tCwzXx5PLvFaQEG5oZaMuhwtvi9s5sLC3buKfU.png",
+  "decimals": 9,
+  "attributes": [],
+  "external_url": "https://tubecoin.io"
+}
