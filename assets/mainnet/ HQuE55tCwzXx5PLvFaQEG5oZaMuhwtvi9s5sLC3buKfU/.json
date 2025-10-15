@@ -1,0 +1,12 @@
+{
+  "name": "YoutubeCoin",
+  "symbol": "TUBE",
+  "description": "YouTube Coin (TUBE) is a community-driven meme token built for creators and fans on Solana.",
+  "image": "https://raw.githubusercontent.com/youtube-coin-lab/solana-token-list/main/assets/mainnet/HQuE55tCwzXx5PLvFaQEG5oZaMuhwtvi9s5sLC3buKfU/logo.png",
+  "extensions": {
+    "telegram": "https://t.me/Youtubecointube",
+    "github": "https://github.com/youtube-coin-lab"
+  },
+  "tags": ["meme", "community", "solana"],
+  "creator": "YouTube Coin Lab"
+}
