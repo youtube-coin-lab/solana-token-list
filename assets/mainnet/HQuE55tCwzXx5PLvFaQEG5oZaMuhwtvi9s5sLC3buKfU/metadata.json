@@ -1,0 +1,15 @@
+{
+"chainId": 101,
+"address": "HQuE55tCwzXx5PLvFaQEG5oZaMuhwtvi9s5sLC3buKfU",
+"symbol": "TUBE",
+"name": "Youtubecoin",
+"decimals": 9,
+"logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HQuE55tCwzXx5PLvFaQEG5oZaMuhwtvi9s5sLC3buKfU/logo.png",
+"tags": ["community-token"],
+"extensions": {
+"website": null,
+"twitter": "https://x.com/youtubecointub1?s=21",
+"discord": null,
+"telegram": "@Youtubecointube"
+}
+}
